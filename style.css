@@ -247,9 +247,13 @@ body {
     line-height: 22px;
     overflow: hidden;
     text-overflow: ellipsis;
+    display: -moz-box;
     display: -webkit-box;
-    -webkit-line-clamp: 5;
+    display: box;
+    -moz-box-orient: vertical;
     -webkit-box-orient: vertical;
+    box-orient: vertical;
+    -webkit-line-clamp: 5;
 }
 
 .readmore {
@@ -270,7 +274,9 @@ body {
 .show-info {
     overflow: visible;
     text-overflow: initial;
+    -moz-box-orient: horizontal;
     -webkit-box-orient: horizontal;
+    box-orient: horizontal;
 }
 
 /* about */
