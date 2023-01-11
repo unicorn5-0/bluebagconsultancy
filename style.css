@@ -344,6 +344,7 @@ body {
 
 .contact-row button {
     display: block;
+    color: #000;
     background: transparent;
     padding: 12px 34px;
     border: 1px solid #0f1584;
