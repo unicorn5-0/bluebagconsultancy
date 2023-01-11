@@ -629,7 +629,7 @@ body {
 
 
 @media screen and (max-width: 480px) {
-    .title-text::after {
+    .title-text h2::after {
         left: 43.5%;
         bottom: -2.5px;
     }
