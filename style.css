@@ -270,7 +270,7 @@ body {
 }
 
 .show-info {
-    overflow: visible;
+    overflow: initial;
     text-overflow: initial;
     -moz-box-orient: horizontal;
     -webkit-box-orient: horizontal;
