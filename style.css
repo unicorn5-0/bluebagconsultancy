@@ -629,6 +629,11 @@ body {
 
 
 @media screen and (max-width: 480px) {
+    .title-text::after {
+        left: 43.5%;
+        bottom: -2.5px;
+    }
+    
     /* banner */
 
     .navbar {
