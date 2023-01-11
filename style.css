@@ -349,6 +349,7 @@ body {
     padding: 12px 34px;
     border: 1px solid #0f1584;
     font-size: 13px;
+    font-weight: 300;
 }
 
 .contact-row button:hover {
