@@ -249,10 +249,8 @@ body {
     text-overflow: ellipsis;
     display: -moz-box;
     display: -webkit-box;
-    display: box;
     -moz-box-orient: vertical;
     -webkit-box-orient: vertical;
-    box-orient: vertical;
     -webkit-line-clamp: 5;
 }
 
@@ -276,7 +274,6 @@ body {
     text-overflow: initial;
     -moz-box-orient: horizontal;
     -webkit-box-orient: horizontal;
-    box-orient: horizontal;
 }
 
 /* about */
