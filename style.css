@@ -274,7 +274,7 @@ body {
     text-overflow: initial;
     -moz-box-orient: horizontal;
     -webkit-box-orient: horizontal;
-    -webkit-line-clamp: none;
+    -webkit-line-clamp: initial !important;
 }
 
 /* about */
