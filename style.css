@@ -595,7 +595,7 @@ body {
     }
 
     .text-container {
-        top: 65% !important;
+        top: 65%;
     }
 
     /* banner */
@@ -674,7 +674,7 @@ body {
     }
 
     .text-container {
-        width: 80% !important;
+        width: 80%;
         left: 12%;
     }
 
@@ -704,7 +704,7 @@ body {
     }
 
     .about-profile img {
-        width: 210px !important;
+        width: 210px;
         height: 105px;
     }
 
