@@ -677,6 +677,7 @@ body {
     .text-container {
         width: 80%;
         left: 12%;
+        top: 60%;
     }
 
     .text-container p {
