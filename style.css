@@ -211,7 +211,7 @@ body {
 .about-row {
     display: flex;
     width: 80%;
-    height: fit-content;
+    height: 100%;
     padding: 45px;
     background: #fff;
     box-shadow: 6px 6px 5px 10px #e6e7eb;
